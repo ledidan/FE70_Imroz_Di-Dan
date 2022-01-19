@@ -379,7 +379,7 @@ a.btn:hover {
 }
 
 .slider-hero {
-    background: url(/images/bg-image-22.jpg);
+    background: url(images/bg-image-22.jpg);
     background-size: cover;
     background-position: 70%;
     background-repeat: none;
@@ -388,7 +388,7 @@ a.btn:hover {
 }
 
 .slider-hero:nth-child(2) {
-    background: url(/images/bg-image-23.jpg);
+    background: url(images/bg-image-23.jpg);
     background-size: cover;
     background-position: 70%;
     background-repeat: none;
@@ -398,7 +398,7 @@ a.btn:hover {
 }
 
 .slider-hero:nth-child(3) {
-    background: url(/images/bg-image-24.jpg);
+    background: url(images/bg-image-24.jpg);
     background-size: cover;
     background-position: 70%;
     background-repeat: none;
@@ -408,7 +408,7 @@ a.btn:hover {
 }
 
 .slider-hero:nth-child(4) {
-    background: url(/images/bg-image-20.jpg);
+    background: url(images/bg-image-20.jpg);
     background-size: cover;
     background-position: 70%;
     background-repeat: none;
@@ -1099,7 +1099,7 @@ a.inside-top {
 }
 
 .testimonial-section .container {
-    background: url(/images/image-1.png);
+    background: url(images/image-1.png);
     background-repeat: no-repeat;
     background-position: top left;
     background-size: 15%;
